@@ -105,10 +105,5 @@ AI-powered **PCOD detection system** with an intuitive UI/UX.
 
 ---
 
-## 🎉 Fun Fact  
-**I have a crazy, happy group of 9 friends, and we live for coding, fun, and hackathons!** 🤩🔥  
-
----
-
 🚀 **Let’s connect and build something amazing together!**  
 ✨ **Open for collaborations & new opportunities!**  
